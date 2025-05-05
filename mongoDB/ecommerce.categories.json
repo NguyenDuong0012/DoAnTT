@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "68166b559193d81fec232b61"
+  },
+  "cName": "Sam Sung",
+  "cDescription": "Sam Sung",
+  "cStatus": "Active",
+  "cImage": "1746299733245_1734166284039_882747.png",
+  "createdAt": {
+    "$date": "2025-05-03T19:15:33.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T19:15:33.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681670389193d81fec232b90"
+  },
+  "cName": "Apple",
+  "cDescription": "Apple",
+  "cStatus": "Active",
+  "cImage": "1746300984417_1746300855258_1746300052669_1746299962369_1746299762847_1734166379319_apple-icon.png",
+  "createdAt": {
+    "$date": "2025-05-03T19:36:24.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T19:36:24.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6816707d9193d81fec232b94"
+  },
+  "cName": "Vivo",
+  "cDescription": "ViVo",
+  "cStatus": "Active",
+  "cImage": "1746301053936_1734166437797_vivo-icon-png-10.png",
+  "createdAt": {
+    "$date": "2025-05-03T19:37:33.939Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T19:37:33.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68171d86433dd85660bffa57"
+  },
+  "cName": "Huawei",
+  "cDescription": "Huawei",
+  "cStatus": "Active",
+  "cImage": "1746345350221_0edf39234e04b2d35f1e9ad5656b28f5.png",
+  "createdAt": {
+    "$date": "2025-05-04T07:55:50.253Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T07:55:50.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68171ea8433dd85660bffa7e"
+  },
+  "cName": "Xiaomi",
+  "cDescription": "Xiaomi",
+  "cStatus": "Active",
+  "cImage": "1746345640435_pngegg.png",
+  "createdAt": {
+    "$date": "2025-05-04T08:00:40.451Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:00:40.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68171f3d433dd85660bffa82"
+  },
+  "cName": "Realme",
+  "cDescription": "Realme",
+  "cStatus": "Active",
+  "cImage": "1746345789727_realme-mobile-logo-icon.png",
+  "createdAt": {
+    "$date": "2025-05-04T08:03:09.734Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:03:09.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68171fae433dd85660bffa94"
+  },
+  "cName": "Oppo",
+  "cDescription": "Oppo",
+  "cStatus": "Active",
+  "cImage": "1746345902823_Oppo.jpeg",
+  "createdAt": {
+    "$date": "2025-05-04T08:05:02.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:05:02.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681720a6433dd85660bffaa6"
+  },
+  "cName": "Asus",
+  "cDescription": "ASUS",
+  "cStatus": "Active",
+  "cImage": "1746346150318_tải xuống.png",
+  "createdAt": {
+    "$date": "2025-05-04T08:09:10.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:09:10.324Z"
+  },
+  "__v": 0
+}]

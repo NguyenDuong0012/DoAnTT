@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "681725eb8e6e0e2bdc7f80f8"
+  },
+  "pSold": 0,
+  "pQuantity": 50,
+  "pImages": [
+    "1746347499505_Iphone 16 plus.png",
+    "1746347499517_iphone 16 plus1.png"
+  ],
+  "pOffer": "10",
+  "pName": "Iphone 16 Plus",
+  "pDescription": "iPhone 16 Plus sở hữu màn hình Super Retina XDR OLED kích thước lớn 6.7 inch với độ phân giải cao, mang đến trải nghiệm hiển thị sắc nét và sống động cùng công nghệ Dynamic Island tiện lợi. Thiết kế của máy vẫn giữ được vẻ sang trọng với mặt trước Ceramic Shield bền bỉ, mặt lưng kính pha màu và khung nhôm chắc chắn. Sức mạnh của iPhone 16 Plus đến từ chip A18 mới, hứa hẹn hiệu năng vượt trội và tiết kiệm điện năng. Hệ thống camera kép tiên tiến với camera chính 48MP được nâng cấp, cùng khả năng zoom quang học 2x và quay video chất lượng cao, bao gồm cả chế độ Điện Ảnh và Hành Động. Camera trước TrueDepth cũng được cải thiện, mang lại những bức ảnh selfie và video call sắc nét. Máy được trang bị kết nối 5G siêu nhanh, Wi-Fi 7 và Bluetooth 5.3, cùng với viên pin dung lượng lớn hứa hẹn thời gian sử dụng dài hơn. iPhone 16 Plus chạy hệ điều hành iOS 18 mới nhất và tích hợp các tính năng bảo mật Face ID tiên tiến, mang đến một trải nghiệm sử dụng mượt mà, an toàn và đầy hứng thú.",
+  "pPrice": 899,
+  "pCategory": {
+    "$oid": "681670389193d81fec232b90"
+  },
+  "pStatus": "Active",
+  "pRatingsReviews": [],
+  "createdAt": {
+    "$date": "2025-05-04T08:31:39.528Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:31:39.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817270a8e6e0e2bdc7f8110"
+  },
+  "pSold": 0,
+  "pQuantity": 45,
+  "pImages": [
+    "1746347786513_Iphone 16 pro max 1.jpeg",
+    "1746347786513_Iphone 16 pro max.jpeg"
+  ],
+  "pOffer": "0",
+  "pName": "IPhone 16 pro Max",
+  "pDescription": "iPhone 16 Pro Max sở hữu màn hình Super Retina XDR OLED kích thước lớn 6.9 inch với công nghệ ProMotion 120Hz, mang đến trải nghiệm hiển thị siêu mượt mà và sắc nét cùng Dynamic Island cải tiến. Thiết kế cao cấp với khung titan bền bỉ, mặt lưng kính nhám và Ceramic Shield bảo vệ màn hình. Sức mạnh vượt trội đến từ chip A18 Pro, đảm bảo hiệu năng đỉnh cao cho mọi tác vụ. Hệ thống camera sau ba ống kính chuyên nghiệp, bao gồm camera chính 48MP nâng cấp, camera góc siêu rộng và camera tele tiềm vọng mới với khả năng zoom quang học ấn tượng, hứa hẹn khả năng chụp ảnh và quay video tuyệt đỉnh. Camera trước TrueDepth 12MP với nhiều cải tiến cho selfie và FaceTime. Máy được trang bị kết nối 5G siêu nhanh, Wi-Fi 7, pin dung lượng lớn cho thời gian sử dụng lâu dài, sạc nhanh và sạc không dây MagSafe. iPhone 16 Pro Max chạy iOS 18 với nhiều tính năng mới và bảo mật Face ID tiên tiến, là lựa chọn hàng đầu cho những người dùng đòi hỏi hiệu năng và trải nghiệm camera tốt nhất.",
+  "pPrice": 999,
+  "pCategory": {
+    "$oid": "681670389193d81fec232b90"
+  },
+  "pStatus": "Active",
+  "pRatingsReviews": [],
+  "createdAt": {
+    "$date": "2025-05-04T08:36:26.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:36:26.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681727fa8e6e0e2bdc7f8114"
+  },
+  "pSold": 0,
+  "pQuantity": 34,
+  "pImages": [
+    "1746348026854_Apple-iPhone-15.jpg",
+    "1746348026855_Apple-iPhone-15-1.jpg"
+  ],
+  "pOffer": "0",
+  "pName": "IPhone 15",
+  "pDescription": "iPhone 15 sở hữu màn hình Super Retina XDR OLED kích thước 6.1 inch với độ phân giải sắc nét và độ sáng cao, cùng thiết kế Dynamic Island mới mẻ. Máy được trang bị chip A16 Bionic mạnh mẽ, mang lại hiệu năng mượt mà cho mọi tác vụ và chơi game. Hệ thống camera kép phía sau bao gồm camera chính 48MP mới và camera góc siêu rộng 12MP, cho khả năng chụp ảnh chi tiết và quay video chất lượng cao. Camera trước TrueDepth 12MP hỗ trợ chụp ảnh selfie sắc nét và gọi FaceTime. iPhone 15 có khung nhôm hàng không vũ trụ và mặt lưng kính cường lực, mang lại vẻ ngoài bền bỉ và sang trọng. Máy hỗ trợ kết nối 5G, Wi-Fi 6, và có thời lượng pin tốt, cùng với cổng USB-C thay thế cho Lightning. Chạy trên hệ điều hành iOS mới nhất, iPhone 15 mang đến trải nghiệm người dùng liền mạch và nhiều tính năng thông minh.",
+  "pPrice": 799,
+  "pCategory": {
+    "$oid": "681670389193d81fec232b90"
+  },
+  "pStatus": "Active",
+  "pRatingsReviews": [],
+  "createdAt": {
+    "$date": "2025-05-04T08:40:26.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:40:26.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681728ee8e6e0e2bdc7f8118"
+  },
+  "pSold": 0,
+  "pQuantity": 34,
+  "pImages": [
+    "1746348270523_iphone-16e.png",
+    "1746348270523_iphone-16e-1.png"
+  ],
+  "pOffer": "0",
+  "pName": "IPhone 16e",
+  "pDescription": "Tuy nhiên, nếu giả định một chiếc iPhone 16e tồn tại, chúng ta có thể hình dung nó là một phiên bản có giá cả phải chăng hơn trong dòng iPhone 16. Nó có thể sở hữu một màn hình kích thước vừa phải, có lẽ là LCD thay vì OLED để giảm chi phí. Về hiệu năng, máy có thể được trang bị một phiên bản chip A-series rút gọn hơn so với các mẫu cao cấp, nhưng vẫn đảm bảo trải nghiệm mượt mà cho các tác vụ hàng ngày. Hệ thống camera có thể là camera đơn hoặc camera kép với các tính năng chụp ảnh cơ bản tốt. Thiết kế có thể sử dụng vật liệu khác biệt để giảm giá thành, nhưng vẫn mang ngôn ngữ thiết kế chung của dòng iPhone 16. Dù vậy, xin nhắc lại rằng đây chỉ là những suy đoán dựa trên cách Apple định vị các sản phẩm trước đây, và hiện tại không có thông tin chính thức nào về iPhone 16e.",
+  "pPrice": 799,
+  "pCategory": {
+    "$oid": "681670389193d81fec232b90"
+  },
+  "pStatus": "Active",
+  "pRatingsReviews": [],
+  "createdAt": {
+    "$date": "2025-05-04T08:44:30.527Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:44:30.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68172a7a8e6e0e2bdc7f8134"
+  },
+  "pSold": 0,
+  "pQuantity": 56,
+  "pImages": [
+    "1746348666848_dien-thoai-samsung-galaxy-s25-ultra_1.png",
+    "1746348666848_dien-thoai-samsung-galaxy-s25-ultra_2.png"
+  ],
+  "pOffer": "10",
+  "pName": "Samsung Galaxy S25 Ultra",
+  "pDescription": "Samsung Galaxy S25 Ultra là một chiếc điện thoại cao cấp với màn hình Dynamic AMOLED 2X kích thước 6.9 inch, độ phân giải QHD+ và tần số quét 120Hz, được bảo vệ bởi kính cường lực Gorilla Glass Armor 2. Sức mạnh của máy đến từ vi xử lý Snapdragon 8 Elite for Galaxy, đi kèm RAM 12GB và các tùy chọn bộ nhớ trong 256GB, 512GB hoặc 1TB. Hệ thống camera sau ấn tượng với cảm biến chính 200MP, camera góc siêu rộng 50MP và hai camera tele 50MP (zoom quang 5x) và 10MP (zoom quang 3x), hỗ trợ zoom kỹ thuật số lên đến 100x và quay video 8K. Camera trước có độ phân giải 12MP. Máy được trang bị viên pin 5000mAh, hỗ trợ sạc nhanh 45W và sạc không dây. Galaxy S25 Ultra tích hợp các tính năng kết nối tiên tiến như 5G, Wi-Fi 7, Bluetooth 5.4, NFC và cảm biến vân tay siêu âm trong màn hình. Thiết kế của máy nổi bật với khung viền titanium và khả năng kháng nước, bụi IP68, cùng với bút S Pen quen thuộc. Máy chạy hệ điều hành Android 15 với giao diện One UI 7, tích hợp nhiều tính năng AI thông minh như Call Assist, Photo Assist và Audio Eraser.",
+  "pPrice": 1299,
+  "pCategory": {
+    "$oid": "68166b559193d81fec232b61"
+  },
+  "pStatus": "Active",
+  "pRatingsReviews": [],
+  "createdAt": {
+    "$date": "2025-05-04T08:51:06.853Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:51:06.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68172b948e6e0e2bdc7f8148"
+  },
+  "pSold": 0,
+  "pQuantity": 45,
+  "pImages": [
+    "1746348948264_dien-thoai-samsung-galaxy-a56.1.png",
+    "1746348948265_dien-thoai-samsung-galaxy-a56_3_.png"
+  ],
+  "pOffer": "0",
+  "pName": "Samsung Galaxy A56",
+  "pDescription": "Samsung Galaxy A56 là một chiếc điện thoại tầm trung đáng chú ý với màn hình Super AMOLED 6.7 inch Full HD+ sắc nét và tần số quét 120Hz mượt mà. Thiết kế của máy được hoàn thiện với khung nhôm và mặt lưng kính Gorilla Glass Victus+, mang lại cảm giác cao cấp và bền bỉ, đồng thời đạt chuẩn kháng nước và bụi IP67. Sức mạnh của Galaxy A56 đến từ chip Exynos 1580 tám nhân, kết hợp với RAM 8GB hoặc 12GB, đảm bảo hiệu năng ổn định cho các tác vụ hàng ngày và giải trí. Hệ thống camera sau gồm camera chính 50MP có OIS, camera góc siêu rộng 12MP và camera macro 5MP, hứa hẹn khả năng chụp ảnh đa dạng. Camera trước 12MP đáp ứng tốt nhu cầu selfie và gọi video. Máy được trang bị viên pin 5000mAh hỗ trợ sạc nhanh 45W và chạy trên hệ điều hành Android 15 với giao diện One UI 7 mới nhất, mang đến trải nghiệm người dùng tối ưu.",
+  "pPrice": 365,
+  "pCategory": {
+    "$oid": "68166b559193d81fec232b61"
+  },
+  "pStatus": "Active",
+  "pRatingsReviews": [],
+  "createdAt": {
+    "$date": "2025-05-04T08:55:48.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:55:48.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68172c5b8e6e0e2bdc7f815b"
+  },
+  "pSold": 0,
+  "pQuantity": 45,
+  "pImages": [
+    "1746349147583_samsung-galaxy-z-fold-6-1.png",
+    "1746349147584_samsung-galaxy-z-fold-6-2.png"
+  ],
+  "pOffer": "0",
+  "pName": "Samsung Galaxy Z Fold 6",
+  "pDescription": "Samsung Galaxy Z Fold 6 mang đến trải nghiệm gập cải tiến với thiết kế mỏng và nhẹ hơn so với thế hệ trước, đồng thời sở hữu vẻ ngoài vuông vắn hơn. Khi mở ra, máy sở hữu màn hình chính Dynamic AMOLED 2X Infinity Flex 7.6 inch độ phân giải QXGA+ với tần số quét thích ứng 120Hz, trong khi màn hình phụ là Dynamic AMOLED 2X 6.3 inch độ phân giải HD+ cũng có tần số quét 120Hz và được bảo vệ bởi kính cường lực Gorilla Glass Victus 2. Sức mạnh của máy đến từ vi xử lý Snapdragon 8 Gen 3 for Galaxy, đi kèm với 12GB RAM và các tùy chọn bộ nhớ trong lên đến 1TB. Hệ thống camera đa năng bao gồm camera chính góc rộng 50MP chống rung OIS, camera góc siêu rộng 12MP và camera tele 10MP với khả năng zoom quang học 3x. Để chụp ảnh selfie, máy có camera trước 10MP ở màn hình phụ và camera ẩn dưới màn hình chính 4MP. Galaxy Z Fold 6 được trang bị viên pin kép 4.400mAh hỗ trợ sạc nhanh có dây 25W và sạc không dây 15W. Hoạt động trên nền tảng Android 14 với giao diện One UI 6.1.1, máy còn tích hợp nhiều tính năng AI, hỗ trợ bút S Pen (dù không có khe cắm tích hợp) và khả năng kháng nước và bụi IP48.",
+  "pPrice": 1.386,
+  "pCategory": {
+    "$oid": "68166b559193d81fec232b61"
+  },
+  "pStatus": "Active",
+  "pRatingsReviews": [],
+  "createdAt": {
+    "$date": "2025-05-04T08:59:07.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T08:59:07.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68172d708e6e0e2bdc7f8175"
+  },
+  "pSold": 0,
+  "pQuantity": 23,
+  "pImages": [
+    "1746349424344_Samsung-zflit-1.png",
+    "1746349424345_Samsung-zflit-2.png"
+  ],
+  "pOffer": "0",
+  "pName": "Samsung Galaxy Z Flip6",
+  "pDescription": "Samsung Galaxy Z Flip6 tiếp tục mang đến thiết kế gập vỏ sò độc đáo, được đồn đoán sẽ có nếp gấp màn hình ítVisible hơn. Khi mở ra, máy sở hữu màn hình Dynamic AMOLED 2X kích thước khoảng 6.7 inch với tần số quét thích ứng 120Hz, hứa hẹn trải nghiệm hiển thị mượt mà và sống động. Màn hình phụ bên ngoài có thể được nâng cấp về kích thước, mang lại nhiều tiện ích hơn khi gập lại. Về hiệu năng, Galaxy Z Flip6 có khả năng được trang bị vi xử lý Snapdragon 8 Gen 3 for Galaxy, đi kèm với tùy chọn RAM và bộ nhớ trong khác nhau, đảm bảo khả năng xử lý tốt mọi tác vụ. Hệ thống camera kép phía sau có thể bao gồm camera chính được nâng cấp về độ phân giải, cùng với camera góc siêu rộng, hứa hẹn cải thiện chất lượng ảnh chụp và quay video. Máy dự kiến sẽ có viên pin lớn hơn một chút so với thế hệ trước, cải thiện thời lượng sử dụng. Galaxy Z Flip6 sẽ chạy trên hệ điều hành Android mới nhất với giao diện One UI đặc trưng của Samsung, tích hợp nhiều tính năng thông minh và khả năng tùy biến cao. Với thiết kế thời trang, nhỏ gọn khi gập lại và hiệu năng mạnh mẽ, Galaxy Z Flip6 hứa hẹn là một lựa chọn hấp dẫn trong phân khúc điện thoại gập.",
+  "pPrice": 731,
+  "pCategory": {
+    "$oid": "68166b559193d81fec232b61"
+  },
+  "pStatus": "Active",
+  "pRatingsReviews": [],
+  "createdAt": {
+    "$date": "2025-05-04T09:03:44.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T09:03:44.348Z"
+  },
+  "__v": 0
+}]

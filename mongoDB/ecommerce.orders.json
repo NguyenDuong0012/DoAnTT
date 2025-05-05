@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "68178f1b92bb384774d49ece"
+  },
+  "status": "Processing",
+  "allProduct": [
+    {
+      "_id": {
+        "$oid": "68178f1b92bb384774d49ecf"
+      },
+      "id": {
+        "$oid": "68172b948e6e0e2bdc7f8148"
+      },
+      "quantitiy": 1
+    },
+    {
+      "_id": {
+        "$oid": "68178f1b92bb384774d49ed0"
+      },
+      "id": {
+        "$oid": "6817270a8e6e0e2bdc7f8110"
+      },
+      "quantitiy": 1
+    }
+  ],
+  "user": {
+    "$oid": "6814ecb14246731508398873"
+  },
+  "amount": 1364,
+  "transactionId": "1746374427025",
+  "address": "đà nẵng",
+  "phone": 324234,
+  "createdAt": {
+    "$date": "2025-05-04T16:00:27.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T16:52:56.864Z"
+  },
+  "__v": 0
+}]

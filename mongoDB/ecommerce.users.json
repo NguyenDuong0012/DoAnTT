@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6814ecb14246731508398873"
+  },
+  "userRole": 0,
+  "userImage": "user.png",
+  "verified": "false",
+  "secretKey": null,
+  "history": [],
+  "name": "Duong",
+  "email": "nd@gmail.com",
+  "password": "$2a$10$I1b74ONWIJVuFl.3Bh/nU.BQ2es9FUY9M70u44CzjrBADChMc9cly",
+  "createdAt": {
+    "$date": "2025-05-02T16:02:57.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-02T16:02:57.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675d2dc224760d4c1c20ca5f"
+  },
+  "userRole": 1,
+  "userImage": "user.png",
+  "verified": "false",
+  "secretKey": null,
+  "history": [],
+  "name": "Demotk2",
+  "email": "demotk@gmail.com",
+  "password": "$2a$10$H/k4UkLbpleTTy0pjTptCulWvAAiUtnhhSBsq2gErlXh8MZTqzBGm",
+  "createdAt": {
+    "$date": "2024-12-14T07:03:30.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-14T07:03:30.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681674159193d81fec232cea"
+  },
+  "userRole": 0,
+  "userImage": "user.png",
+  "verified": "false",
+  "secretKey": null,
+  "history": [],
+  "name": "Nguyễn Văn A",
+  "email": "a@gmail.com",
+  "password": "$2a$10$12QRpSChMQ7MOyizcd9tJeAVtxKWheIlBBVKyjBgrHogZTzWxUopa",
+  "createdAt": {
+    "$date": "2025-05-03T19:52:53.903Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T19:52:53.903Z"
+  },
+  "__v": 0
+}]
